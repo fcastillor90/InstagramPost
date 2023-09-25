@@ -1,3 +1,8 @@
+body{
+    height: 1500px;
+    width: 800px;
+}
+
 .post-header{
     
     display: flex;
@@ -15,9 +20,6 @@
     margin-top: 10px;
 }
 
-.post-icons{
-
-}
 
 .fa-brands{
     text-align: center;
@@ -41,6 +43,12 @@
 .botPart{
     margin: 30px;
     margin-top: 15px;
+    width: 650px;
+}
+
+.texttext{
+    justify-content:center;
+    
 }
 
 i{
