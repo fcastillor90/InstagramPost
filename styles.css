@@ -7,7 +7,6 @@
 }
 .Point{
     align-content: end;
-    background-color: aqua;
 }
 
 .post-img{
@@ -22,8 +21,6 @@
 
 .fa-brands{
     text-align: center;
-    background-color: blueviolet;
-
 }
 
 .yeyeye{
@@ -34,9 +31,7 @@
 .textHead{
     display: flex;
     flex-direction: column;
-    background-color: bisque;
     min-width: 700px;
-
 }
 .textHead h6{
     margin: 0;
