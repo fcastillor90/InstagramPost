@@ -1,0 +1,51 @@
+.post-header{
+    
+    display: flex;
+    
+
+}
+.Point{
+    align-content: end;
+    background-color: aqua;
+}
+
+.post-img{
+    align-items: center;
+    margin: 70px;
+    margin-top: 10px;
+}
+
+.post-icons{
+
+}
+
+.fa-brands{
+    text-align: center;
+    background-color: blueviolet;
+    min-width: 50px;
+    height: 50px;
+}
+
+.yeyeye{
+    min-width: 50px;
+    height: 50px;
+}
+
+.textHead{
+    background-color: bisque;
+    min-width: 500px;
+    height: 50px;
+}
+
+.botPart{
+    margin: 30px;
+    margin-top: 15px;
+}
+
+i{
+    padding-right: 10px;
+}
+
+.emotPart{
+    padding-left: 30px;
+}
