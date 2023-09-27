@@ -15,9 +15,12 @@ body{
 }
 
 .post-img{
-    align-items: center;
-    margin: 70px;
+    
+    margin: 30px;
     margin-top: 10px;
+    width: 550px;
+    /*border: solid red;
+*/
 }
 
 
@@ -43,7 +46,9 @@ body{
 .botPart{
     margin: 30px;
     margin-top: 15px;
-    width: 650px;
+    width: 550px;
+   /* border: solid red;
+    */
 }
 
 .texttext{
