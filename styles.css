@@ -1,6 +1,6 @@
 body{
     height: 1500px;
-    width: 800px;
+    width: 400px;
 }
 
 .post-header{
@@ -14,11 +14,15 @@ body{
     align-content: end;
 }
 
+
 .post-img{
     
-    margin: 30px;
-    margin-top: 10px;
-    width: 550px;
+    /*margin: 30px;
+    margin-top: 10px;*/
+    width: 100%;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column-reverse;
     /*border: solid red;
 */
 }
@@ -36,7 +40,7 @@ body{
 .textHead{
     display: flex;
     flex-direction: column;
-    min-width: 700px;
+    min-width: 360px;
 }
 .textHead h6{
     margin: 0;
@@ -44,9 +48,9 @@ body{
 
 
 .botPart{
-    margin: 30px;
+    margin: 10px;
     margin-top: 15px;
-    width: 550px;
+    width: 340px;
    /* border: solid red;
     */
 }
@@ -61,5 +65,6 @@ i{
 }
 
 .emotPart{
-    padding-left: 30px;
+    padding-left: 10px;
+    padding-top: 15px;
 }
